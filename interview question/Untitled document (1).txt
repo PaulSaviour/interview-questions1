@@ -1,0 +1,35 @@
+﻿interview questions for Data Types, Operators, Conditional Statements, Looping Statements, Functions.
+
+
+DATA TYPES
+1.Name four of the main data types in Python?
+2.Why are these data types known as Python’s core data types?
+3.What does immutable mean and what three types of Python core data types are considered immutable?
+4.What does sequence mean and which three types of data fall into this category?
+5..what is the difference between list and tuple?
+6.What is a dictionary in python?
+7.what is tuple in python?
+
+
+
+
+CONDITIONAL STATEMENTS
+8.what are the key features of python?
+9.what is “pass” in python?
+10.what does the continue do in python?
+11.When should we use the “break” in python?
+12.what is the difference between the pass and continue in python?
+
+
+OPERATORS
+13.what are types of operator used in python?
+14.what do you choose a list over a tuple?
+
+
+FUNCTIONS
+15.what is a function in python programing?
+16.mention the use of the split function in python?
+17.what is lambda in python?
+18.what is counter in python?
+19.is it mandatory for a python function to return a value?
+20.what is the return keyword used for in the python?
